@@ -1,0 +1,23 @@
+.circle {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.green .yellow .red .orange {
+  background-color: white;
+}
+
+.active {
+  background-image: url("../src/Image/target.png");
+  background-color: white;
+  background-size: 115%;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: url(./Image/bow.png) auto;
+}

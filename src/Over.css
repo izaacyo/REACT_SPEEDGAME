@@ -1,0 +1,44 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.041);
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.gameover_box {
+  background-color: rgba(133, 209, 133, 0.781);
+  padding: 1rem;
+  width: 40%;
+  min-height: 25%;
+  border-radius: 5px;
+  position: relative;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+.over_button {
+  background: lightblue;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.gameover_text {
+  font-size: 70px;
+  color: rgb(253, 247, 247);
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+}
+
+p {
+  font-size: 2rem;
+}
