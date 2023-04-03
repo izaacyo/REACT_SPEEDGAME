@@ -1,3 +1,5 @@
+# Live site hosted on Netlify https://archeryspeedgame.netlify.app/
+
 # About 
 
 Initially developed using plain Javascript and later updated to React, the Archery Speedtest was a way to put in practice the concepts learned during the classes in Business College Helsinki. 
