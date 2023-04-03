@@ -1,6 +1,8 @@
 # About 
 
-Initially developed using plain Javascript but updated to React, the Archery Speedtest was a way to put in practice the concepts learned during the classes in Business College Helsinki. 
+Initially developed using plain Javascript and later updated to React, the Archery Speedtest was a way to put in practice the concepts learned during the classes in Business College Helsinki. 
+
+It includes 3 difficulty levels, from slow to fast, design for mobile, "Game Over" pop up with different text depending on player's score.
 
 
 Steps done in developing the game: 
